@@ -13,10 +13,7 @@ public class camera_script : MonoBehaviour
     {
        // ballTrans = ballPos GetComponent<Transform>();
         ballPos = GameObject.Find("Bolinha");
-        
-
     }
-
     // Update is called once per frame
     void Update()
     {
